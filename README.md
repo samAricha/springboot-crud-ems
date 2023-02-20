@@ -2,5 +2,5 @@
 employee management system containing all crud operations in Spring Boot App.
 
 # springboot Technologies Used
-JPA
+JPA, 
 Lombok
